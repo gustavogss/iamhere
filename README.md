@@ -20,5 +20,6 @@ npm install
 - Para rodar a aplicação, digite o comando:
   ``` npx expo start```
 
-## Aplicativo :runner: 
+## Aplicativo 📱
+[app.webm](https://github.com/gustavogss/iamhere/assets/20332960/b522fd2c-d54c-4276-9c32-288ebc4c30e1)
 
