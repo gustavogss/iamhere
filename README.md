@@ -17,7 +17,8 @@ Aplicativo para cadastrar e remover participantes de um evento
 ```
 npm install
 ```
-- Para rodar a aplicação **npx expo start**
+- Para rodar a aplicação, digite o comando:
+  ``` npx expo start```
 
 ## Aplicativo :runner: 
 
